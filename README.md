@@ -25,7 +25,7 @@ Understand and evaluate emerging technologies for precision genomics
 * Obtain background required to carry out original research related to topics in genetics and genomics
 * Discuss ethical, legal, and social implications of genetic testing, including informed consent, incidental findings, privacy, reproductive decision-making, and equitable access to care.
 
-Further, we anticipate that completion of the year-long seminar series will provide proficiency in topics covered by the American Board of Medical Genetics and Genomics (AMBGG) exam. A full list of topics is listed below.
+Further, we anticipate that completion of the year-long seminar series will provide proficiency in [topics](#ambgg-topics) covered by the American Board of Medical Genetics and Genomics (AMBGG) exam. A full list of topics is listed below.
 
 ## Grading
 The course is pass/fail. To receive academic credit for the course, you must attend at least 9 of the 10 lectures in a given quarter. Anyone is welcome to audit the course for no credit.

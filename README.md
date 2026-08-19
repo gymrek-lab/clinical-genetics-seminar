@@ -34,7 +34,19 @@ The course is pass/fail. To receive academic credit for the course, you must att
 
 ### Fall 2026
 
-TBD
+| Date | Speaker | Title
+| --- | ----------- |--- | 
+| 09/25/2026 | Kristen Wigby, Melissa Gymrek | Course overview |
+| 10/02/2026 | TBD | TBD |
+| 10/09/2026 | TBD | TBD |
+| 10/16/2026 | TBD | TBD |
+| 10/23/2026 | TBD | TBD |
+| 10/30/2026 | TBD | TBD |
+| 11/06/2026 | TBD | TBD |
+| 11/13/2026 | TBD | TBD |
+| 11/20/2026 | TBD | TBD |
+| 11/27/2026 | Cancelled - Thanksgiving Break |  |
+| 12/04/2026 | TBD | TBD |
 
 ## AMBGG topics
 * chromosomal basis of inheritance

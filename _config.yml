@@ -1,1 +1,16 @@
+###########
+
+title: "MED299: Topics in Medical Genetics, Genomics, and Precision Medicine"
+
+## note: 
+#  use site.path in your templates to make it work for both protocols e.g. http and https
+#  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
+path: ""
+url:  "http://clinical-genetics-seminar.github.io"
+description: "MED299: Topics in Medical Genetics, Genomics, and Precision Medicine"
+
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 

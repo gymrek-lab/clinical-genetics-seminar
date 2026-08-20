@@ -1,7 +1,3 @@
-# MED 299: Topics in Medical Genetics, Genomics, and Precision Medicine
-
-This repository contains source files for the MED299 website offered at UC San Diego.
-
 ## Course logistics
 **Meeting time/location**: Fridays 2:30-3:30pm (Zoom)<br>
 **Course instructors**: Melissa Gymrek, Kristen Wigby, Angels Almenar-Queralt

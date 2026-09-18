@@ -32,17 +32,17 @@ The course is pass/fail. To receive academic credit for the course, you must att
 
 | Date | Speaker | Title
 | --- | ----------- |--- | 
-| 09/25/2026 | Kristen Wigby, Melissa Gymrek | Course overview |
-| 10/02/2026 | TBD | TBD |
-| 10/09/2026 | TBD | TBD |
+| 09/25/2026 | Kristen Wigby, Melissa Gymrek, Angels Almenar-Queralt | Course overview |
+| 10/02/2026 | Joseph Gleeson | Disease gene discovery approaches: historical and current |
+| 10/09/2026 | Jonathan Sebat | TBD |
 | 10/16/2026 | TBD | TBD |
-| 10/23/2026 | TBD | TBD |
-| 10/30/2026 | TBD | TBD |
-| 11/06/2026 | TBD | TBD |
-| 11/13/2026 | TBD | TBD |
-| 11/20/2026 | TBD | TBD |
+| 10/23/2026 | Alexis Komor | Development of precision genome editing methodologies |
+| 10/30/2026 | Yue Huang | Overview of inborn errors of metabolism |
+| 11/06/2026 | Hudson Freeze | TBD |
+| 11/13/2026 | Marilyn Jones | TBD |
+| 11/20/2026 | Lynne Bird | TBD |
 | 11/27/2026 | Cancelled - Thanksgiving Break |  |
-| 12/04/2026 | TBD | TBD |
+| 12/04/2026 | Farah Sheikh | Precision Medicine Therapies for Inherited Heart Disease |
 
 ## AMBGG topics
 * chromosomal basis of inheritance

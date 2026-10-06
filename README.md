@@ -34,7 +34,7 @@ The course is pass/fail. To receive academic credit for the course, you must att
 | --- | ----------- |--- | 
 | 09/25/2026 | Kristen Wigby, Melissa Gymrek, Angels Almenar-Queralt | Course overview |
 | 10/02/2026 | Joseph Gleeson | Disease gene discovery approaches: historical and current |
-| 10/09/2026 | Jonathan Sebat | TBD |
+| 10/09/2026 | Jonathan Sebat | Autism and Schizophrenia *converge* on common pathways but *diverge* in cell-type, tissue and directionality of genetic effects |
 | 10/16/2026 | Rebecca Reimers | TBD |
 | 10/23/2026 | Alexis Komor | Development of precision genome editing methodologies |
 | 10/30/2026 | Yue Huang | Overview of inborn errors of metabolism |
